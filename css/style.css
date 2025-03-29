@@ -6,6 +6,9 @@
 .error404{
     color: #00274C;
     font-size: 100px;
+}
+
+.body404{
     background-color: #FFCB05;
 }
 
