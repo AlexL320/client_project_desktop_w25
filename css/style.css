@@ -423,6 +423,10 @@ footer{
         animation: fromright 5s;
     }
 
+    .page1_img{
+        border: 5px solid #9A3324;
+    }
+
     .div_page1{
         color: #FFCB05;
         background-color: #00274C;
