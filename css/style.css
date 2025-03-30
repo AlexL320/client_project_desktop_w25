@@ -629,4 +629,43 @@ footer{
         animation: fromleft 3s;
         border: 5px dashed #00274C;
     }
+
+    @media (prefers-reduced-motion: reduce){
+        .welcome{
+            animation: none;
+        }
+        .page1_imgs1{
+            animation: none;
+        }
+        .page1_imgs2{
+            animation: none;
+        }
+        .sect_page2{
+            animation: none;
+        }
+        .p1_page2{
+            animation: none;
+        }
+        .page2_img_storage{
+            animation: none;
+        }
+        .ciscm_page3{
+            animation: none;
+        }
+        .food_page3{
+            animation: none;
+        }
+        .finance_page3{
+            animation: none;
+        }
+        .health_page3{
+            animation: none;
+        }
+        .house_page3{
+            animation: none;
+        }
+        .career_page3{
+            animation: none;
+        }
+    }
 }
